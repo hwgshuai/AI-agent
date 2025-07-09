@@ -31,8 +31,8 @@ def main():
 
         print()
 
-
-
+#
+# git config --global core.autocrlf true
 
 
 
